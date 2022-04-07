@@ -1,0 +1,33 @@
+[
+  {
+    "branchID": "60434652972600bkzcr3RMGK7zW4Z0rQ9f",
+    "type": "UZCARD",
+    "name": "unicorn",
+    "status": "ACTIVE",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "cassette1": {
+      "currencyValue": "50000",
+      "status": "ACTIVE",
+      "currencyCount": 100
+    },
+    "cassette2": {
+      "currencyValue": "20000",
+      "status": "ACTIVE",
+      "currencyCount": 100
+    },
+    "cassette3": {
+      "currencyValue": "10000",
+      "status": "ACTIVE",
+      "currencyCount": 100
+    },
+    "cassette4": {
+      "currencyValue": "5000",
+      "status": "ACTIVE",
+      "currencyCount": 100
+    },
+    "id": "60475161593900vdvtk94idg0M0jbd5NMW",
+    "createdAt": "Dec 12, 2021, 1:14:09 AM",
+    "deleted": 0
+  }
+]

@@ -1,0 +1,9 @@
+/.idea/.gitignore
+/target/classes/uz/jl/ui/AdminUI.class
+/.idea/vcs.xml
+/src/main/java/uz/jl/ui/AdminUI.java
+/src/main/java/uz/jl/annotations/Valid.java
+/.idea/misc.xml
+/.idea/git_toolbox_prj.xml
+/.idea/compiler.xml
+/.idea/runConfigurations.xml
